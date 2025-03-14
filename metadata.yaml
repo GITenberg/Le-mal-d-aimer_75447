@@ -1,0 +1,35 @@
+_repo: Le-mal-d-aimer_75447
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ardel, Henri
+    aliases:
+    - Abraham, Berthe
+    - Ardel, Henry
+    birthdate: 1863
+    deathdate: 1938
+    gutenberg_agent_id: '34968'
+    url: http://www.gutenberg.org/2009/agents/34968
+    wikipedia: https://fr.wikipedia.org/wiki/Henri_Ardel
+description: ''
+gutenberg_issued: '2025-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75447'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=njp.32101072910951
+pgterms:marc905: 20240214134026ardel
+pgterms:marc906: '1904'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bPlon, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 20th century'
+- !lcc 'PQ'
+- GITenberg
+title: Le mal d'aimer
+url: http://www.gutenberg.org/ebooks/75447
