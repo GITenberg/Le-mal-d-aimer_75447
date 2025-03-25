@@ -1,5 +1,8 @@
 _repo: Le-mal-d-aimer_75447
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75447-h/images/cover.jpg
 creator:
   author:
     agent_name: Ardel, Henri
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34968
     wikipedia: https://fr.wikipedia.org/wiki/Henri_Ardel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75447#Le-mal-d-aimer
 gutenberg_issued: '2025-02-23'
 gutenberg_type: Text
 identifiers:
